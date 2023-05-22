@@ -1,8 +1,5 @@
-### Prototype & Test day elements
+### Prototype elements
 
-- [ ] Chloris styling
-- [ ] Powers 3D printing
-- [ ] Other islands deco
 - [ ] Narration internal dialogues
 
 ### Assets
