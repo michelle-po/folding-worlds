@@ -1,60 +1,71 @@
-# Project Name
+# Project Name ???
 
 - Michelle PONTI, Marine FAROUD BOGET
-- Master Media Design, HEAD–Genève
+- Master Media Design, HEAD-Genève
 
 ## Pitch
 
-A 500 character (or less!) description of the project.
+???? is a poetic Greek immersive experience in which you play the role of Chloris, a graceful nymph who wanders through the marvellous Champs Élysées. While this environment may seem magical and enchanted, it may also reveal a disturbing mythological mystery... Will you be able to solve it and become the goddess you really are?
 
 ## Synopsis
 
-This is a "1 pager" that explains all the basics in one page. This is a text-based description of the project with maybe one illustration that accompagnies the text.
+The user takes on the role of Chloris, a nymph who wanders the Elysian Fields of Greek mythology.
+While exploring the enchanted landscape, the protagonist, unfortunately, discovers the inert body of another nymph in the vegetation.
+Chloris, expressing her thoughts of immense sadness, begins to wonder how her sister nymph could have died so unexpectedly. She blames Zephirus, the wind god, who must have tried to kidnap her in order to make her his wife.
+Despite the danger represented by the sound of the wind coming closer, Chloris decides to try and pay homage to the nymph's remains:
+Raising her hands to the sky, Chloris (the user) tries to free the clouds in the sky and make the sun appear, whose rays will warm the nymph. Unexpectedly, the nymph is magically transformed into a magnificent red rose that blooms.
+All the flowers in the chosen fields turn colourful for this speel and Chloris (the user), for her empathetic gesture, is proclaimed by the other gods to be "Flora, the goddess of flowers". With the landscape transformed and freed by the clouds, Flora will be able to wander through this plant paradise.
 
-// how we will interact with it
+![gesture.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86a3a9f2-41eb-4b33-997c-892ecb7442fb/geste.png)
 
 ## Visual Interaction Loop
 
-There should be _one simple basical funamental interaction loop_ to your project. Please describe this fundamental interaction in a paragraph.
-
-// basic interaction loop
+The user finds the dead nymph, and sad about his fate decides to help her. She/he clears the clouds from the sky with a hand gesture to make the sunlight appear. The dead nymph turns into a rose, all the flowers turn red and the user Chloris becomes Flora, the goddess of flowers.
 
 ## POV
 
-POV == Points of view. Describe all the POVs where the player can stand/float/be in the scene. Who are you, where are you, what do you see?
-
-- The "passeur", standing on a boat
-- A confused shadow, riding on a carpet
-- Et cætera
-
-//The user looks at the scene as Chloris, who will become Flora.
+- Chloris: in Elysian Field, a neutral environment made up of flowers and vegetation in shades of white and beige.
+- Flora: all the flowers of the landscape are coloured red, a new point of view on the scene.
 
 ## Assets
 
-//list of name of models name
+- Models:
 
-- Models
-  - Fleur
-  - Caillou
-  - Et cætera
-- Gestures
-  - Pinch
-  - Point
-- Sounds //planning
-  - Paf
-  - Bzzzzz
-  - Vuhhhhhhh
-  - Rumpf
+  - Flowers (6)
+  - Rose
+  - Dead Nymph
+  - moss
+  - clouds
+
+- Gestures:
+
+  - walking
+  - hands pushing clouds
+
+- Sounds:
+  - wind
+  - transformation/flower opening
+  - clouds movement
+  - background music?
 
 ## State Machines
 
-Describe all the objects in a Scene that need to have a "state". Don't worry about objects that don't change state.
+- Chloris:
 
-- Crevette
   - Walking
-  - Hiding
   - Waiting
-- Gigafish
-  - Swimming
-  - Eating
-  - Dead
+  - Moving hands and arms (XR kit)
+  - Looking (XR kit)
+
+- Nymph:
+
+  - Waiting
+  - Transforming
+  - hatch
+  - rose
+
+- Flora:
+
+  - Walking
+  - Waiting
+  - looking
