@@ -13,10 +13,15 @@ The user takes on the role of Chloris, a nymph who wanders the Elysian Fields of
 While exploring the enchanted landscape, the protagonist, unfortunately, discovers the inert body of another nymph in the vegetation. </br>
 Chloris, expressing her thoughts of immense sadness, begins to wonder how her sister nymph could have died so unexpectedly. She blames Zephirus, the wind god, who must have tried to kidnap her in order to make her his wife.</br>
 Despite the danger represented by the sound of the wind coming closer, Chloris decides to try and pay homage to the nymph's remains:</br>
-Raising her hands to the sky, Chloris (the user) tries to free the clouds in the sky and make the sun appear, whose rays will warm the nymph. Unexpectedly, the nymph is magically transformed into a magnificent red rose that blooms.</br>
-All the flowers in the chosen fields turn colourful for this speel and Chloris (the user), for her empathetic gesture, is proclaimed by the other gods to be "Flora, the goddess of flowers". With the landscape transformed and freed by the clouds, Flora will be able to wander through this plant paradise.
+Raising her hands to the sky, Chloris (the user) tries to free the clouds in the sky and make the sun appear, whose rays will warm the nymph.
 
-![gesture.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86a3a9f2-41eb-4b33-997c-892ecb7442fb/geste.png)
+![geste](./images/geste.png "geste")
+
+Unexpectedly, the nymph is magically transformed into a magnificent red rose that blooms.</br>
+
+![rose](./images/rose.png "rose")
+
+All the flowers in the chosen fields turn colourful for this speel and Chloris (the user), for her empathetic gesture, is proclaimed by the other gods to be "Flora, the goddess of flowers". With the landscape transformed and freed by the clouds, Flora will be able to wander through this plant paradise.
 
 ## Visual Interaction Loop
 
