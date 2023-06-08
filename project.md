@@ -52,25 +52,25 @@ The user finds the dead nymph, and sad about his fate decides to help her. She/h
   - transformation/flower opening
   - clouds movement
   - background music?
+    </br>
 
 ## State Machines
 
-- Chloris:
+| Nymph         | Flowers         |
+| ------------- | --------------- |
+| dead          | white           |
+| info          | transformation? |
+| tranformation | red             |
+| rose          |                 |
 
-  - Walking
-  - Waiting
-  - Moving hands and arms (XR kit)
-  - Looking (XR kit)
+</br>
 
-- Nymph:
+## Transition
 
-  - Waiting
-  - Transforming
-  - hatch
-  - rose
-
-- Flora:
-
-  - Walking
-  - Waiting
-  - looking
+| Asset   | Initial state  | Event         | Transition | Final state    |
+| ------- | -------------- | ------------- | ---------- | -------------- |
+| Nymph   | dead           | Chloris touch | -          | info           |
+| Nymph   | info           | rayon soleil  | -          | transformation |
+| Nymph   | transformation | delay         | fog        | rose           |
+| flowers | white          | Nymph -> rose |            | transformation |
+| flowers | transformation | delay         | lights,fog | red            |
