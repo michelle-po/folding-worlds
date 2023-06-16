@@ -1,4 +1,4 @@
-# Flower Power
+# Whispering Rose
 
 Project of Michelle Ponti & Marine Faroud Boget
 "Folding Worlds", Master Media Design @head Geneve module.
