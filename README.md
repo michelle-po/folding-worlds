@@ -1,6 +1,6 @@
 # Whispering Rose
 
-Project of Michelle Ponti & Marine Faroud Boget
+Project of Michelle Ponti & Marine Faroud Boget </br>
 "Folding Worlds", Master Media Design @head Geneve module.
 
 ## Description
